@@ -1,0 +1,31 @@
+{
+  "name": "book-wise",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "next-auth": "^4.22.1",
+    "phosphor-react": "^1.4.1",
+    "@stitches/react": "^1.2.8",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.15",
+    "@prisma/client": "^4.16.2",
+    "@types/react-dom": "18.2.7",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.8",
+    "next": "13.4.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "prisma": "^4.16.2"
+  }
+}
